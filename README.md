@@ -1,7 +1,7 @@
 - 👋 Henlo, I’m Karan
 - 👀 I’m interested in coding, astronomy and literature
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me: nowherenowhere595@gmail.com
+- 📫 How to reach me: karankhandekar028@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can sing!
 
