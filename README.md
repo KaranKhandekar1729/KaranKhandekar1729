@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: karankhandekar028@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can sing!
+- ⚡ Fun fact: I sing!
 
 <!---
 KaranKhandekar1729/KaranKhandekar1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
