@@ -1,3 +1,4 @@
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning backend
 - 📫 How to reach me: karankhandekar028@gmail.com
 - 😄 Pronouns: he/him
+- Resume: [https://karankhandekar1729.github.io/resume/resume.pdf]
