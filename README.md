@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning backend
+- 🌱 I’m currently learning building [Send a Letter](https://sendaletter.vercel.app)
 - 📫 How to reach me: karankhandekar028@gmail.com
 - 😄 Pronouns: he/him
-- Resume: [https://karankhandekar1729.github.io/resume/resume.pdf]
+- [My Resume](https://karankhandekar1729.github.io/resume/resume.pdf)
